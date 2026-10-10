@@ -46,7 +46,7 @@ React.js | Next.js | JavaScript (ES6+) | TypeScript | HTML5 | CSS3 | Redux Toolk
 
 ## 📂 Featured Projects
 - **React 19 + TypeScript Multi-language App** – Built with i18next integration for seamless multi-language support and modern React 19 features.  
-  🔗 [GitHub Repository](https://github.com/nitinjankar0607-crypto/multi-lang-todo-app)  
+  🔗 [GitHub Repository](https://github.com/nitinjankar-dev/multi-lang-todo-app) 
 - **Healthcare Dashboard** – WCAG 2.1 compliant, responsive design with REST API integration, accessibility audits, and performance optimisation.  
 - **AI-Driven UI Components** – Generative AI workflows for automated component generation, intelligent UI patterns, and reusable design systems.  
 - **Storybook Component Library** – Developed reusable UI components using AXS & Harmonix libraries, documented and tested with Storybook for enterprise scalability.  
@@ -63,4 +63,4 @@ React.js | Next.js | JavaScript (ES6+) | TypeScript | HTML5 | CSS3 | Redux Toolk
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/nitin-jankar-973856135](https://www.linkedin.com/in/nitin-jankar-973856135/)  
-- 🖥️ GitHub: [github.com/nitinjankar0607-crypto](https://github.com/nitinjankar0607-crypto)  
+- 🖥️ GitHub: [github.com/nitinjankar-dev](https://github.com/nitinjankar-dev)    
