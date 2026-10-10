@@ -62,5 +62,5 @@ React.js | Next.js | JavaScript (ES6+) | TypeScript | HTML5 | CSS3 | Redux Toolk
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/nitin-jankar-973856135](https://www.linkedin.com/in/nitinjankar/)
+- 💼 LinkedIn: [linkedin.com/in/nitinjankar](https://www.linkedin.com/in/nitinjankar/)
 - 🖥️ GitHub: [github.com/nitinjankar-dev](https://github.com/nitinjankar-dev)    
